@@ -1,0 +1,12 @@
+/* 
+  Assets Directory
+  ────────────────
+  Place your static assets here:
+  - Profile images
+  - Project screenshots  
+  - Resume PDF
+  - Custom icons
+  
+  Then import them in your components:
+  import profileImg from '../assets/profile.jpg';
+*/
